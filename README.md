@@ -56,8 +56,6 @@ This project is designed to support **smart agriculture**, **academic research**
 
 ### Backend (Optional / Extendable)
 - Node.js / Express  
-- Python (Flask / Django)  
-- Machine Learning Model for Soil Classification  
 
 ### Hardware Integration
 - Arduino Uno  
@@ -76,9 +74,3 @@ This project is designed to support **smart agriculture**, **academic research**
 4. TerraBot generates crop recommendations and insights.
 5. User receives actionable agricultural guidance.
 
----
-
-### Steps
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/terrascan.git
